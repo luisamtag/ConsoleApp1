@@ -22,3 +22,5 @@
 dotnet new console -n nombre
 cd nombre
 dotnet run
+
+Cambio en desarrollo 6:54
